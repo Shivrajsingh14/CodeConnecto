@@ -88,7 +88,7 @@ Horizontally scalable, fault-tolerant system handling 10,000+ concurrent session
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg)](https://www.typescriptlang.org/)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/sangamparmar/CodeConnecto)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Shivrajsingh14/CodeConnecto)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-ff69b4.svg)](https://eliteapp.tech/)
 
 ---
@@ -503,7 +503,7 @@ Development Environment Specifications:
 **1. Repository Setup**
 ```bash
 # Clone the repository with all branches and tags
-git clone --recurse-submodules https://github.com/sangamparmar/CodeConnecto.git
+git clone --recurse-submodules https://github.com/Shivrajsingh14/CodeConnecto.git
 cd CodeConnecto
 
 # Install development tools globally (optional but recommended)
@@ -817,20 +817,20 @@ copies or substantial portions of the Software.
 
 ### 🔗 Additional Resources
 
-- **Live Demo**: [codeconnecto.eliteapp.tech](https://eliteapp.tech/)
-- **Technical Documentation**: [docs.codeconnecto.com](https://github.com/sangamparmar/CodeConnecto/wiki)
-- **API Reference**: [api.codeconnecto.com](https://github.com/sangamparmar/CodeConnecto/blob/main/docs/api.md)
-- **Architecture Guide**: [architecture.codeconnecto.com](https://github.com/sangamparmar/CodeConnecto/blob/main/docs/architecture.md)
+- **Live Demo**: [codeconnecto.eliteapp.tech](https://codeconnecto.com/)
+- **Technical Documentation**: [docs.codeconnecto.com](https://github.com/Shivrajsingh14/CodeConnecto/wiki)
+- **API Reference**: [api.codeconnecto.com](https://github.com/Shivrajsingh14/CodeConnecto/blob/main/docs/api.md)
+- **Architecture Guide**: [architecture.codeconnecto.com](https://github.com/Shivrajsingh14/CodeConnecto/blob/main/docs/architecture.md)
 - **Contributing Guidelines**: [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Code of Conduct**: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - **Security Policy**: [SECURITY.md](SECURITY.md)
 
 ### 📊 Project Statistics
-[![GitHub Stars](https://img.shields.io/github/stars/sangamparmar/CodeConnecto?style=social)](https://github.com/sangamparmar/CodeConnecto/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sangamparmar/CodeConnecto?style=social)](https://github.com/sangamparmar/CodeConnecto/network)
-[![GitHub Issues](https://img.shields.io/github/issues/sangamparmar/CodeConnecto)](https://github.com/sangamparmar/CodeConnecto/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sangamparmar/CodeConnecto)](https://github.com/sangamparmar/CodeConnecto/pulls)
-[![Commits](https://img.shields.io/github/commit-activity/m/sangamparmar/CodeConnecto)](https://github.com/sangamparmar/CodeConnecto/graphs/commit-activity)
+[![GitHub Stars](https://img.shields.io/github/stars/Shivrajsingh14/CodeConnecto?style=social)](https://github.com/Shivrajsingh14/CodeConnecto/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Shivrajsingh14/CodeConnecto?style=social)](https://github.com/Shivrajsingh14/CodeConnecto/network)
+[![GitHub Issues](https://img.shields.io/github/issues/Shivrajsingh14/CodeConnecto)](https://github.com/Shivrajsingh14/CodeConnecto/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Shivrajsingh14/CodeConnecto)](https://github.com/Shivrajsingh14/CodeConnecto/pulls)
+[![Commits](https://img.shields.io/github/commit-activity/m/Shivrajsingh14/CodeConnecto)](https://github.com/Shivrajsingh14/CodeConnecto/graphs/commit-activity)
 
 ---
 
@@ -842,6 +842,6 @@ copies or substantial portions of the Software.
 
 *Built by engineers, for engineers. Designed for scale, optimized for performance.*
 
-[Report Bug](https://github.com/sangamparmar/CodeConnecto/issues/new?template=bug_report.md) • [Request Feature](https://github.com/sangamparmar/CodeConnecto/issues/new?template=feature_request.md) • [Join Discussion](https://github.com/sangamparmar/CodeConnecto/discussions)
+[Report Bug](https://github.com/Shivrajsingh14/CodeConnecto/issues/new?template=bug_report.md) • [Request Feature](https://github.com/Shivrajsingh14/CodeConnecto/issues/new?template=feature_request.md) • [Join Discussion](https://github.com/Shivrajsingh14/CodeConnecto/discussions)
 
 </div>
